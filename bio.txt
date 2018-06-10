@@ -1,5 +1,6 @@
 Name: Hasan Sayyad
 Company: Barclays Capital
 Phone: 9823
+Email: sayyadha
 Address: Pune, Kharadi 411014
 
